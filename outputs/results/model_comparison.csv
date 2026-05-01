@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1,AUROC
+Logistic Regression,0.706,0.193,0.7325,0.3056,0.7892
+Random Forest,0.8536,0.2613,0.3602,0.3029,0.7955
+XGBoost (Tuned),0.9027,0.2851,0.0677,0.1094,0.7915

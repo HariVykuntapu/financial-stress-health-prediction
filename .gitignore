@@ -1,0 +1,12 @@
+paper/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+data/raw/*.csv
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
